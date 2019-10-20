@@ -14,6 +14,7 @@ class MainActivity : AppCompatActivity() {
         rollButton.setOnClickListener { rollDice() }
 
     }
+    //testing commit and push
     private fun rollDice() {
         Toast.makeText(this, "button clicked",
             Toast.LENGTH_SHORT).show()
