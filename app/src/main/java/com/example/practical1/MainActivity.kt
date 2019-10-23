@@ -1,4 +1,4 @@
-//Author : NGO KIAN HEE
+//Author: NGO KIAN HEE
 package com.example.practical1
 
 import androidx.appcompat.app.AppCompatActivity
@@ -37,7 +37,7 @@ class MainActivity : AppCompatActivity() {
         countUp.setOnClickListener{countUp()}
         resetDice.setOnClickListener{resetDice()}
 //        sumDice.setOnClickListener{totalSum()}
-        totalSum()
+        totalSum()// Display the current total sum
 
     }
     private fun rollDice() {
