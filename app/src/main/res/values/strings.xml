@@ -1,4 +1,10 @@
 <resources>
-    <string name="app_name">Practical1</string>
+    <string name="app_name">Dice Roller</string>
     <string name="roll_label">Roll</string>
+    <string name="dice_label">Dice 1</string>
+    <string name="dice_label2">Dice 2</string>
+    <string name="dice_label3">Dice 3</string>
+    <string name="countUp_label">Count Up</string>
+    <string name="reset_label">Reset</string>
+    <string name="sum_label">Sum</string>
 </resources>
