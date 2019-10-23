@@ -1,4 +1,5 @@
 //Author: NGO KIAN HEE
+//Practical 1 Dice Roller
 package com.example.practical1
 
 import androidx.appcompat.app.AppCompatActivity
